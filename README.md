@@ -1,7 +1,8 @@
 #Привет!
 Меня зовут Карина и я учусь в Нетологии
 Живу в городе Сочи, очень живописный город.
-https://avatars.mds.yandex.net/get-marketcms/1534436/img-e0d59d3d-aa6b-4bad-9917-b2ffd8bd67d1.jpeg/optimize
+![photo_2024-10-28_23-10-24](https://github.com/user-attachments/assets/6ff8ac25-7062-47c8-af80-4f3b903493e0)
+
 
 ##Мои мечта:
 1. Полетать на воздушном шаре
